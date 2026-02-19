@@ -4,7 +4,7 @@
 Developed a dynamic Personal Finance Dashboard in Microsoft Excel using daily financial data for the year 2024 to monitor income, expenses, savings, and financial balance on a monthly basis. The dashboard utilizes Pivot Tables, Pivot Charts, and Slicers to transform raw daily financial records into meaningful insights. It enables users to track spending patterns, evaluate savings, and analyze investment distribution such as Business, Securities, and Cryptocurrency for effective financial planning.
 
 ## Dataset used
-
+- <a herf="https://github.com/Rajasri24/DataAnalysis2_Excel-Dashboard/blob/main/personal%20Finance.xlsx"> Dataset </a>
 
 ## Questions / KPIs 
 
