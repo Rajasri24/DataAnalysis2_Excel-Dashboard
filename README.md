@@ -16,7 +16,7 @@ Developed a dynamic Personal Finance Dashboard in Microsoft Excel using daily fi
 - How are investments distributed across Business, Securities, and Cryptocurrency?
 - Are monthly financial goals being met based on income and expenses?
 - Which month has the highest savings and lowest expenses?
-
+- <a href="https://github.com/Rajasri24/DataAnalysis2_Excel-Dashboard/blob/main/finance%20Screenshot%20.jpg"> View Dashboard </a>
 ## Process 
 
 - Imported daily personal finance data for the year 2024 into Microsoft Excel.
