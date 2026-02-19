@@ -26,6 +26,10 @@ Developed a dynamic Personal Finance Dashboard in Microsoft Excel using daily fi
 - Developed Pivot Charts to visualize monthly trends and investment distribution.
 - Added Slicers and designed an interactive dashboard for dynamic financial analysis.
 
+  ## Dashboard
+  ![finance Screenshot ](https://github.com/user-attachments/assets/ad60a300-ade1-430e-9153-fd2fb5908f1c)
+
+
 ## Project Insights
 
 - Monthly income and expenses show noticeable variations across different months in 2024.
